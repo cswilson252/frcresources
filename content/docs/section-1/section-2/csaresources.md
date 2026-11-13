@@ -52,5 +52,5 @@ weight: 1
 
 [Firmware install](https://frc-radio.vivid-hosting.net/overview/firmware-releases)
 
-[Port Specs](https://frc-radio.vivid-hosting.net/tech-specs/ports)
+[Port Specs - new radios will have ROBOT port and not RIO](https://frc-radio.vivid-hosting.net/tech-specs/ports)
 
